@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2",
+  "apkUrl": "https://raw.githubusercontent.com/zhangmingshi468/yyfy/refs/heads/main/dist/tvguard-2.apk",
+  "sha256": "4c14d363f7e9996f6112327d975c78dd9ad2aa7b1d3c562185d24d458349ea2f",
+  "size": 924716,
+  "notes": "电视防沉迷 0.2 首个带自动更新的版本",
+  "mandatory": false
+}
